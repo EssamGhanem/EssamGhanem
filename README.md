@@ -4,9 +4,7 @@
     <br>
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,mongodb,mysql" /><br>
 </div>
-<div>
-    ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=EssamGhanem.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
-</div>
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=EssamGhanem.EssamGhanem)
 
 <!--
 **EssamGhanem/EssamGhanem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
