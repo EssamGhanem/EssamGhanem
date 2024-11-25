@@ -5,7 +5,7 @@
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,mongodb,mysql" /><br>
 </div>
 <div>
-    [![](https://visitcount.itsvg.in/api?id=EssamGhanem&icon=0&color=0)](https://visitcount.itsvg.in)
+    ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=EssamGhanem.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
 </div>
 
 <!--
