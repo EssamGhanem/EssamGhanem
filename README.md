@@ -1,3 +1,4 @@
+[![](https://visitcount.itsvg.in/api?id=EssamGhanem&icon=5&color=6)](https://visitcount.itsvg.in)
 <h2>My skill set</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,sass,tailwind,vscode,github,bootstrap,git" /> 
@@ -5,7 +6,11 @@
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,mongodb,mysql" /><br>
 </div>
 
-[![](https://visitcount.itsvg.in/api?id=EssamGhanem&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+
+
+
 
 <!--
 **EssamGhanem/EssamGhanem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
