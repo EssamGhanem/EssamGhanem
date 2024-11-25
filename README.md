@@ -2,8 +2,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,mongodb,nextjs,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,sass,tailwind,vscode,github,,bootstrap,git" /> 
+    <br>
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,mongodb,mysql" /><br>
 </div>
 <!--
 **EssamGhanem/EssamGhanem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
