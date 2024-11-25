@@ -1,6 +1,4 @@
-## Hi there 👋
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
+
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,sass,tailwind,vscode,github,bootstrap,git" /> 
     <br>
