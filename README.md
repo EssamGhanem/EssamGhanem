@@ -1,4 +1,4 @@
-##My skill set
+<h2>My skill set</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,sass,tailwind,vscode,github,bootstrap,git" /> 
     <br>
