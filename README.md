@@ -5,7 +5,7 @@
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,mongodb,mysql" /><br>
 </div>
 <div>
-    ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourrepositoryname)
+    ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=EssamGhanem.EssamGhanem)
 </div>
 
 <!--
